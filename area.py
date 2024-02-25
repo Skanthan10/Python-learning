@@ -1,0 +1,7 @@
+# Write your code here :-)
+name1 =input("enter your length : ")
+name2=input ("enter you width  : ")
+area=int(name1)*int(name2)
+print("Total Area =", area)
+print ("Total area :" ,name1, "*", name2, "=" , area)
+print ("Total Surface area =", int(name1)+int(name2))
